@@ -1,2 +1,3 @@
-welcome:
-  message: Goog morning,and good night happy birthdday
+
+temp:
+  cacheFolder: C:\tmperory
